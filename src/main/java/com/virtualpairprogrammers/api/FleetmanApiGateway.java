@@ -6,6 +6,8 @@ import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.cloud.netflix.feign.EnableFeignClients;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
+// tested by tz
+
 @SpringBootApplication
 @EnableScheduling
 @EnableCircuitBreaker
